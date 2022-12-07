@@ -1,2 +1,2 @@
-# coursesSolutions
-Solution to different courses done by me
+# Courses Solutions
+Solutions to different courses done by me
